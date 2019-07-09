@@ -1,1 +1,1 @@
-# Simple-implementations
+# Simple MNIST classfier
